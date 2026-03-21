@@ -1,4 +1,4 @@
-# BlueBloc Documentation and Support
+# BlueBloc: an endless arcade game
 
 _Last updated: March 21, 2026_
 
