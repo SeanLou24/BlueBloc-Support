@@ -16,7 +16,7 @@ Contact: sean.lou20@gmail.com
 ## Screenshots
 
 <p>
-  <img src="screenshots/iPhone-start.png" width="250" />
   <img src="screenshots/iPhone-start-menu.png" width="250" />
   <img src="screenshots/iPhone-HOWTOPlay.png" width="250" />
+  <img src="screenshots/iPhone-start.png" width="250" />
 </p>
