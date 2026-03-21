@@ -1,15 +1,22 @@
-BlueBloc Documentation and Support
+# BlueBloc Documentation and Support
 
-Last updated: March 21, 2026
-Overview
+_Last updated: March 21, 2026_
 
-BlueBloc is an endless arcade game where you control your character by tilting your device or tapping. The goal is to reach the highest score and level by catch collectibles, avoiding hazards, and staying ahead of the game's increasing challenge.
+## Overview
 
-For issues, provide steps to reproduce, environment info, and logs/screenshots.
-sean.lou20@gmail.com
+BlueBloc is an endless arcade game where you control your character by tilting your device or tapping. The goal is to reach the highest score and level by collecting items, avoiding hazards, and staying ahead of the game's increasing challenge.
 
-Here are some screenshots:
+For issues, please provide:
+- steps to reproduce
+- device and iOS version
+- logs or screenshots
 
-![Home Screen](screenshots/iPhone start.png)
-![Game Screen](screenshots/iPhone start menu.png)
-![Result Screen](screenshots/iPhone HOWTOPlay.png)
+Contact: sean.lou20@gmail.com
+
+## Screenshots
+
+![Home Screen](screenshots/iphone-start.png)
+
+![Game Screen](screenshots/iphone-start-menu.png)
+
+![How To Play](screenshots/iphone-how-to-play.png)
