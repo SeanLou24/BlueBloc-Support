@@ -15,8 +15,8 @@ Contact: sean.lou20@gmail.com
 
 ## Screenshots
 
-![Home Screen](screenshots/iPhone-start.png)
-
-![Game Screen](screenshots/iPhone-start-menu.png)
-
-![How To Play](screenshots/iPhone-HOWTOPLAY.png)
+<p>
+  <img src="screenshots/iphone-start.png" width="250" />
+  <img src="screenshots/iphone-start-menu.png" width="250" />
+  <img src="screenshots/iphone-how-to-play.png" width="250" />
+</p>
