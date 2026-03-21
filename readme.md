@@ -8,7 +8,7 @@ BlueBloc is an endless arcade game where you control your character by tilting y
 
 For issues, please provide:
 - steps to reproduce
-- device and iOS version
+- device and OS version
 - logs or screenshots
 
 Contact: sean.lou20@gmail.com
